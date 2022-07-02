@@ -1,5 +1,5 @@
 # Number Guessing Game
-### It is a Simple Guessing game in which user have to guess the number in the given range, and no of attempts will be counted and finally it will show the number of attempts in which user guesses then 
+<p> It is a Simple Guessing game in which user have to guess the number in the given range, and no of attempts will be counted and finally it will show the number of attempts in which user guesses then </p>
 
 <p> Game Rules </p>
 <ul>
